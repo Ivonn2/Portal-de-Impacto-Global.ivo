@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
 
 /* Estilos de encabezado */
 header {
-    background-color: #007bff;
+    background-color: #333;
     color: white;
     padding: 1em 0;
     text-align: center;
